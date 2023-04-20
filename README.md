@@ -1,4 +1,4 @@
-# lab-4
+
 # GEO409 Field Trip Maps
 Maps for field trip to measure tree canopy
 
